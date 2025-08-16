@@ -161,7 +161,7 @@ Descrição...
 ***
 ## 23) Scratch
 
-O [Scratch] (https://scratch.mit.edu) é uma ferramenta gratuita e totalmente dispensável de instalação, baseada em código aberto, que funciona diretamente no navegador tanto para a criação quanto utilização dos jogos criados. Disponível em mais de 70 idiomas, incluindo inglês e português, oferece uma ampla variedade de jogos 2D gratuitos criados pela comunidade. Sua proposta de programação por meio do recurso de arrastar e soltar torna o aprendizado intuitivo e acessível, permitindo que iniciantes avancem rapidamente. Além disso, a plataforma possibilita baixar o "código" de projetos já existentes, o que incentiva a exploração, a modificação e a criação de novos jogos a partir de ideias compartilhadas.
+O [Scratch](https://scratch.mit.edu) é uma ferramenta gratuita e totalmente dispensável de instalação, baseada em código aberto, que funciona diretamente no navegador tanto para a criação quanto utilização dos jogos criados. Disponível em mais de 70 idiomas, incluindo inglês e português, oferece uma ampla variedade de jogos 2D gratuitos criados pela comunidade. Sua proposta de programação por meio do recurso de arrastar e soltar torna o aprendizado intuitivo e acessível, permitindo que iniciantes avancem rapidamente. Além disso, a plataforma possibilita baixar o "código" de projetos já existentes, o que incentiva a exploração, a modificação e a criação de novos jogos a partir de ideias compartilhadas.
 
 ***
 

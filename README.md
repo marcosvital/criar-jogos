@@ -19,8 +19,193 @@ O [Adventure Game Studio](https://www.adventuregamestudio.co.uk) é uma ferramen
 ***
 
 ***
-## Nome da Ferramenta
+## 3) Bitsy
 
 Descrição...
+
+***
+
+***
+## 4) ClickTeam
+
+Descrição...
+
+***
+
+***
+## 5) Construct
+
+Descrição...
+
+***
+
+***
+## 6) Core
+
+Descrição...
+
+***
+
+***
+## 7) Flow Lab
+
+Descrição...
+
+***
+
+***
+## 8) Fiero
+
+Descrição...
+
+***
+
+***
+## 9) Game Maker
+
+Descrição...
+
+***
+
+***
+## 10) Gamefroot
+
+Descrição...
+
+***
+
+***
+## 11) GameSalad
+
+Descrição...
+
+***
+
+***
+## 12) GB studio
+
+Descrição...
+
+***
+
+***
+## 13) GDevelop
+
+Descrição...
+
+***
+
+***
+## 14) Godot
+
+Descrição...
+
+***
+
+***
+## 15) Kodu
+
+Descrição...
+
+***
+
+***
+## 16) Makey Makey
+
+Descrição...
+
+***
+
+***
+## 17) Micro Studio
+
+Descrição...
+
+***
+
+***
+## 18) Pygame
+
+Descrição...
+
+***
+
+***
+## 19) PlayCanvas
+
+Descrição...
+
+***
+
+***
+## 20) Roblox Studio
+
+Descrição...
+
+***
+
+***
+## 21) RPG Paper Maker
+
+Descrição...
+
+***
+
+***
+## 22) Sandbox Game Maker
+
+Descrição...
+
+***
+
+***
+## 23) Scratch
+
+Descrição...
+
+***
+
+***
+## 24) Solarus
+
+Descrição...
+
+***
+
+***
+## 25) Stencyl
+
+Descrição...
+
+***
+
+***
+## 26) Twine
+
+Descrição...
+
+***
+
+***
+## 27) Unreal Engine
+
+Descrição...
+
+***
+
+***
+## 28) Unity
+
+Descrição...
+
+***
+
+***
+## 29) Yahaha
+
+Descrição...
+
+***
+
 
 ***

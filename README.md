@@ -159,20 +159,17 @@ O [Twine](https://twinery.org/) é uma ferramenta gratuita indicada para usuári
 ***
 ## 27) Unreal Engine
 
-Descrição...
+A [Unreal Engine](https://www.unrealengine.com/pt-BR) é uma ferramenta gratuita indicada para usuários com noções avançadas de programação. Disponível em inglês, português e mais de seis idiomas, oferece documentação e tutoriais no site oficial, disponível em oito ou mais idiomas. É compatível com Windows, Linux e Mac, permitindo criar jogos 3D variados para celulares. No site, há alguns jogos de demonstração que ajudam a entender melhor o funcionamento da ferramenta. Durante os testes, não foi possível completar a fase final da instalação da plataforma.
 ***
 
 ***
 ## 28) Unity
 
-Descrição...
+A [Unity](https://unity.com/download) é uma ferramenta freemium (gratuita, mas com algumas funções pagas) que se propõe a ensinar programação e criação de jogos. Disponível em inglês, português e mais de sete idiomas, conta com extensa documentação, tutoriais e cursos profissionalizantes voltados tanto para iniciantes quanto para usuários com experiência em programação. É compatível com Windows, Linux e Mac, permitindo criar jogos 2D e 3D para celulares e navegadores. No site oficial, é possível visualizar alguns dos jogos criados com a plataforma, embora não haja disponibilidade de jogos para teste.
 ***
 
 ***
 ## 29) Yahaha
 
-Descrição...
-***
-
-
+O [Yahaha](https://yahaha.com/) é uma ferramenta gratuita que permite a criação de jogos sem a necessidade de conhecimentos prévios de programação. Disponível em inglês, conta com tutoriais no site e no YouTube. É compatível com Windows e Mac, permitindo desenvolver jogos 3D variados para celulares e navegadores. Apesar de oferecer muitos recursos e tutoriais, criar um jogo na plataforma se mostrou uma tarefa difícil, pois a interface não é intuitiva e os tutoriais disponíveis não facilitaram significativamente o desenvolvimento.
 ***

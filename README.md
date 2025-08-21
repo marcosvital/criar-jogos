@@ -1,4 +1,4 @@
-# Recursos para criação de jogos digitais
+# Recursos para criação de jogos digitais 
 
 Este site apresenta uma lista de ferramentas que podem ser usadas para criação de jogos digitais, com uma descrição geral do que cada uma delas oferece para os usuários. Nossa ênfase foi na apresentação de ferramentas que sejam de uso grauito (mesmo que tenham também versões pagas) e que exijam pouco ou nenhum conhecimento de programação. Além disso, após a lista de ferramentas apresentamos vídeos tutoriais, diários de criação e jogos de exemplo, com algumas das ferramentas selecionadas.
 

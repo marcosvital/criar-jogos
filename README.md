@@ -1,8 +1,12 @@
 # Recursos para criação de jogos digitais
 
-Repositório criado para o projeto PIBIT ciclo 2024-25 do LEQ UFAL, para reunir ferramentas de criação de jogos digitais
+Este site apresenta uma lista de ferramentas que podem ser usadas para criação de jogos digitais, com uma descrição geral do que cada uma delas oferece para os usuários. Nossa ênfase foi na apresentação de ferramentas que sejam de uso grauito (mesmo que tenham também versões pagas) e que exijam pouco ou nenhum conhecimento de programação. Além disso, após a lista de ferramentas apresentamos vídeos tutoriais, diários de criação e jogos de exemplo, com algumas das ferramentas selecionadas.
 
-Fiz uma edição aqui pelo perfil do LEQ para mostrar como se coloca um link. Por exemplo, para o [curso de REA e licenças CC](https://marcosvital.github.io/Curso-REA/).
+Este site é mantido por a partir de um [repositório no GitHub](https://github.com/marcosvital/criar-jogos), criado como parte do um projeto do Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI) da Universidade Federal de Alagoas, no ciclo 2024-25, sob orientação do [prof Marcos V. C. Vital](https://linktr.ee/marcosvital) e sendo executado pelos estudantes Luís Filipe da Conceição Albuquerque e William Fabrício Lima Cabral. O objetivo foi listar ferramentas que possam ser usadas por docentes para criação de jogos digitais com potenciais aplicações no ensino de Ciências e Biologia - mas o conteúdo pode e dever ser útil para outros públicos também!
+
+O conteúodo deste site é aberto e está disponível sob uma licença [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt-br): ele é gratuito para você usar, manter e compartilhar; você também pode usá-lo para criar versões modificadas e distribuí-las, e para isso você só precisa indicar que usou este material como base, atribuindo autoria.
+
+Se você quiser sugerir alterações ou adições no site, pode fazer isso usando o [repositório no GitHub](https://github.com/marcosvital/criar-jogos) e enviando um _pull request_.
 
 ***
 ## 1) Adventure Creator
@@ -183,3 +187,14 @@ A [Unity](https://unity.com/download) é uma ferramenta freemium (gratuita, mas 
 
 O [Yahaha](https://yahaha.com/) é uma ferramenta gratuita que permite a criação de jogos sem a necessidade de conhecimentos prévios de programação. Disponível em inglês, conta com tutoriais no site e no YouTube. É compatível com Windows e Mac, permitindo desenvolver jogos 3D variados para celulares e navegadores. Apesar de oferecer muitos recursos e tutoriais, criar um jogo na plataforma se mostrou uma tarefa difícil, pois a interface não é intuitiva e os tutoriais disponíveis não facilitaram significativamente o desenvolvimento.
 ***
+***
+
+# Tutoriais, jogos e documentos
+
+Aqui vamos disponibilizar conteúdo voltado para a criação de jogos em algumas ferramentas selecionadas.
+
+***
+## Jogo 1 aqui e conteúdos dele aqui...
+
+***
+## Jogo 2, etc...

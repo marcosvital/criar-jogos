@@ -186,7 +186,7 @@ A [Unity](https://unity.com/download) é uma ferramenta freemium (gratuita, mas 
 ## 29) Yahaha
 
 O [Yahaha](https://yahaha.com/) é uma ferramenta gratuita que permite a criação de jogos sem a necessidade de conhecimentos prévios de programação. Disponível em inglês, conta com tutoriais no site e no YouTube. É compatível com Windows e Mac, permitindo desenvolver jogos 3D variados para celulares e navegadores. Apesar de oferecer muitos recursos e tutoriais, criar um jogo na plataforma se mostrou uma tarefa difícil, pois a interface não é intuitiva e os tutoriais disponíveis não facilitaram significativamente o desenvolvimento.
-***
+
 ***
 
 # Tutoriais, jogos e documentos

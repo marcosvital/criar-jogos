@@ -194,7 +194,23 @@ O [Yahaha](https://yahaha.com/) é uma ferramenta gratuita que permite a criaç�
 Aqui vamos disponibilizar conteúdo voltado para a criação de jogos em algumas ferramentas selecionadas.
 
 ***
-## Jogo 1 aqui e conteúdos dele aqui...
+## Dra. Jaqueline Omulú e a Ameaça Virológica (jogo criado com a ferramenta Flowlab)
 
+Quando um vírus misterioso começa a deixar muitos pacientes doentes e os médicos não sabem como lidar com a doença, a Dra. Jaqueline Omolú entra em ação. Após rezar para o orixá Omolú, orixá da cura e das doenças, o mesmo aparece para ela em sonho e explica que pode ajudar Jaqueline a combater a doença e desenvolver uma cura, mas para isso ela vai precisar entrar na corrente sanguínea de um paciente e coletar no mínimo 30 antígenos virais em 3 lugares diferentes do organismo do paciente. Para se defender das células infectadas pelo vírus, Omolú concedeu a Jaqueline, o poder de atirar linfócitos T citotóxicos. O jogo, [Dra. Jaqueline Omulú e a Ameaça Virológica](https://flowlab.io/game/play/2747834), foi criado com a plataforma Flowlab e foca na área da Imunologia e da Virologia e busca ensinar sobre infecções por vírus e mecanismos de defesa do sistema imunológico, buscando também trazer mais representação para mulheres negras na Ciência ao trazer uma protagonista negra retinta e ao mesmo tempo homenagear religiões de matriz afrobrasileira.
+
+Crie você também o seu jogo com o Flowlab e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVBeV8A7NjYZAK_dIlox6kfe&si=kuFEVowerJBgXF1n) explicando a funcionalidade da ferramenta.
 ***
-## Jogo 2, etc...
+## Reconstrua o Ecossistema (jogo/atividade criada com a ferramenta Kodu)
+
+A construção de uma hidrelétrica em uma região da Floresta Amazônica causou grande perda da biodiversidade local tanto de espécies animais quanto de espécies vegetais, em uma tentativa de recuperar a biodiversidade da região o Governo Federal encarregou o Instituto de Legado Ecológico em Questão (LEQ) para realizar ações de reflorestamento e manejo de fauna com o intuito de recuperar esse ambiente. Nessa atividade, o jogador vai utilizar os recursos do jogo para reflorestar a área, levando em consideração o bioma no qual se encontra, e também utilizará os recursos para reconstituir a biodiversidade do local, buscando ao mesmo tempo incluir indivíduos que consigam compor boas teias alimentares (produtores, consumidores e decompositores). Esse jogo na verdade é uma atividade mais visual e discursiva focada na área da Ecologia e que busca sobretudo abordar os assuntos relativos à biomas, ecossistemas e cadeias alimentares. É necessário acessar o site do [Kodu](http://www.kodugamelab.com/), baixar a ferramenta no computador e selecionar a opção de mundo que contém uma fábrica para dar incício a essa atividade.
+
+Crie você também o seu jogo com o Kodu e [acesse a nossa playlist com tutoriais](https://youtube.com/playlist?list=PLMcmU8UTshVCH3mfaifhBmqkxMyP3psOB&si=i6tG3PLBy3Guun_1) explicando a funcionalidade da ferramenta.
+***
+## Jogo 3
+
+Descrição...
+***
+## Jogo 4
+
+Descrição...
+***

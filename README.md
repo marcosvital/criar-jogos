@@ -181,3 +181,10 @@ Guardiões da Natureza é um jogo educativo digital em que o jogador assume o pa
 O jogo [Guardiões da Natureza está disponível e pode ser jogado aqui](https://gd.games/games/7958b18f-20b4-4308-b8f1-a6616f632f15). Além do jogo em si, [compartilhamos em nossos documentos disponíveis aqui](https://github.com/marcosvital/criar-jogos/tree/main/documentos), um documento de desenvolvimento do jogo (GDD, Game Development Document), um Diário de Criação e uma Sequência Didática de aplicação proposta.
 
 ***
+## Immune Survivors (Jogo desenvolvido com a ferramenta GDevelop)
+
+Em Immune Survivors, um jogo inspirado no gênero survivors-like, o jogador controla um neutrófilo, célula importante da resposta imunológica inata, enfrentando ameaças bacterianas em um ambiente de combate. O objetivo é sobreviver enquanto acumula experiência, evolui e adquire novas habilidades por meio de escolhas de cartas. Essas habilidades representam mecanismos de defesa dos neutrófilos, como a explosão respiratória, a degranulação e a formação de armadilhas extracelulares (NETose). Por meio de elementos de combate, progressão e sobrevivência, o protótipo busca apresentar, de forma simplificada e interativa, conceitos relacionados à imunologia e ao funcionamento da imunidade inata, como possibilidade de recurso complementar para o ensino de Biologia.
+
+Desenvolvido com a ferramenta GDevelop, o protótipo Immune Survivors explora as possibilidades de criação de jogos digitais voltados à área da saúde, utilizando uma ferramenta acessível que não exige conhecimentos avançados de programação. Além do jogo, foram elaborados materiais complementares: o Game Design Document (GDD), destinado ao planejamento e à documentação do projeto; o Diário de Criação, que registra as principais etapas do desenvolvimento; e uma Sequência Didática, voltada à abordagem da imunidade inata no Ensino Médio.
+
+O [jogo está disponível e pode ser jogado aqui](https://gd.games/games/584ef84e-bed2-49f0-8462-f32516275230). Os documentos (GDD, Diário e Sequência) estão [disponíveis junto dos nosso demais documentos aqui](https://github.com/marcosvital/criar-jogos/tree/main/documentos).

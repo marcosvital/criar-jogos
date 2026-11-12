@@ -174,3 +174,10 @@ Em Environment Invasion, um jogo de plataforma, o jogador assume o desafio de or
 Disponível a um click de distância, o protótipo [Envionment Invasion](https://gd.games/games/b53a2417-1569-4dda-a53e-8db16ca18f08) está aberto para testes, sendo criado a partir da ferramenta [GDevelop](https://gdevelop.io/pt-br). Além disso, há documentações disponíveis, como o [Game Design Document](https://docs.google.com/document/d/196kwJROZbSXgfig7sXU62AE_DWjzs5BS/edit?usp=sharing&ouid=116833630896248214855&rtpof=true&sd=true), voltado para o planejamento do protótipo, e o [Creation Diary](https://docs.google.com/document/d/1zxf-ApRCeNABWKPL8z5iJo_PGBZo1ODs/edit?usp=sharing&ouid=116833630896248214855&rtpof=true&sd=true), destinado ao registro de execução do protótipo.
 
 ***
+## Guardiões da Natureza (Jogo desenvolvido com a ferramenta GDevelop)
+
+Guardiões da Natureza é um jogo educativo digital em que o jogador assume o papel de um biólogo em campo, percorrendo diferentes ambientes naturais e enfrentando decisões que impactam diretamente o equilíbrio dos ecossistemas locais. O jogo tem como objetivo apresentar, de forma prática e interativa, como diferentes ameaças ambientais como desmatamento e poluição afetam ecossistemas distintos, e como as escolhas do jogador impactam a conservação desses ambientes.
+
+O jogo [Guardiões da Natureza está disponível e pode ser jogado aqui](https://gd.games/games/7958b18f-20b4-4308-b8f1-a6616f632f15). Além do jogo em si, [compartilhamos em nossos documentos disponíveis aqui](https://github.com/marcosvital/criar-jogos/tree/main/documentos), um documento de desenvolvimento do jogo (GDD, Game Development Document), um Diário de Criação e uma Sequência Didática de aplicação proposta.
+
+***
